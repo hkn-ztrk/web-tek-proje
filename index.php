@@ -65,27 +65,51 @@
       </nav>
       <div class="tab-content" id="pills-tabcontent">
         <div class="tab-pane fade show active" id="hakkinda" role="tabpanel" aria-labelledby="pills-hakkinda-tab">
+
 <div class="container-fluid">
- 
-  
   <div class="row">
     <div class="col-1"></div>
     <div class="col" style="background-color:#ffffff;">
       <div class="row" style="height: 5px;"></div>
-      Merhaba Dünya!
+      Merhaba Dünya! #hakkinda
 
     </div>
     <div class="col-1"></div>
   </div>
 </div>
+
         </div>
 
         <div class="tab-pane fade" id="ozgecmis" role="tabpanel" aria-labelledby="pills-ozgecmis-tab">
-dsfag
+
+<div class="container-fluid"> 
+ <div class="row">
+   <div class="col-1"></div>
+   <div class="col" style="background-color:#ffffff;">
+     <div class="row" style="height: 5px;"></div>
+     Merhaba Dünya! #ozgecmis
+
+   </div>
+   <div class="col-1"></div>
+ </div>
+</div>
+
         </div>
 
         <div class="tab-pane fade" id="sehrim" role="tabpanel" aria-labelledby="pills-sehrim-tab">
-uuuuuuuuu
+
+<div class="container-fluid"> 
+ <div class="row">
+   <div class="col-1"></div>
+   <div class="col" style="background-color:#ffffff;">
+     <div class="row" style="height: 5px;"></div>
+     Merhaba Dünya! #sehrim
+
+   </div>
+   <div class="col-1"></div>
+ </div>
+</div>
+
         </div>
 
       </div>
